@@ -7,7 +7,7 @@
     "project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
     "project_version": "0.1.0",
     "python_version": "^3.10",
-    "pytest_version": "^5.2",
+    "pytest_version": "^7.1.2",
     "black_version": "^22.3.0",
     "flake8_version": "^4.0.1",
     "flake8_isort_version": "^4.1.1",
